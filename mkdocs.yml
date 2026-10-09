@@ -1,5 +1,5 @@
 site_name: AssetAtlas Docs
-site_description: Structured Stellar asset metadata and verification — documentation portal for anchorflow-app, anchorflow-backend and anchorflow-contracts.
+site_description: Structured Stellar asset metadata and verification — documentation portal for assetatlas-app, assetatlas-backend and assetatlas-contracts.
 site_url: https://stellar-assetatlas.github.io/assetatlas-app/
 repo_url: https://github.com/stellar-assetatlas/assetatlas-app
 repo_name: stellar-assetatlas/assetatlas-app
